@@ -43,7 +43,7 @@ específico.
 - [x]  RN05: A Data de Nascimento deve ser válida;
 - [x]  RN06: Um cliente pode ter mais de um contato cadastrado;
 - [x]  RN07: Ao excluir um cliente, todos os seus contatos devem ser removidos do sistema;
-- [ ]  RN08: O sistema deve validar os dados informados antes de permitir o cadastro ou edição.
+- [x]  RN08: O sistema deve validar os dados informados antes de permitir o cadastro ou edição.
 
 ## Configuração do Ambiente
 
