@@ -78,6 +78,12 @@ git clone https://github.com/thomasmfx/gestao-contatos-frontend.git
 
 - PostgreSQL
 
-<!-- ## Vídeo Demonstrativo
+## Vídeo Demonstrativo
 
-Um vídeo demonstrativo da execução do sistema pode ser encontrado [neste link](). -->
+Um vídeo demonstrativo da execução do sistema pode ser encontrado [neste link](https://youtu.be/qgIA3ObyrR8).
+
+## Scripts Banco de Dados
+
+Os scripts de criação de população do banco de dados podem ser encontrados no repositório backend, especificamente em: [src/main/resources/sql](https://github.com/thomasmfx/gestao-contatos-backend/tree/main/src/main/resources/sql)
+
+
